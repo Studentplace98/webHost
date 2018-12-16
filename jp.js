@@ -1,1 +1,0 @@
-document.body.innerHTML = "<image src='https://1.bp.blogspot.com/-PE41TeqP_FM/W6684yEpMvI/AAAAAAAAAEg/FP-yG5lEfhQYxpH5823j0vA1ckqRBsqxwCLcBGAs/s640/Fundamentos.png'>"
